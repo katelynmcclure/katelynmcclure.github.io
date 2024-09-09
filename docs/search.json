@@ -18,7 +18,7 @@
     "href": "projects/stat112/index.html",
     "title": "STAT 112 Final Group Project",
     "section": "",
-    "text": "A presentation completed as the final project in STAT 112 - Introduction to Data Science in the spring of 2024. An introductory set of visualizations and tables that give insight into the different raw number and proportions of species classified as some level of threatened by the US National Park service. One of the main focuses of the assignment was the data cleaning process, which included the joining of a few separate datasets, creating new categorical variables for the numerous national park regions, and the removal of any missing data.\n\n\nThis presentation was created by Katelyn McClure, Megan Diller, and Sydney Stratton.\n\n\nCheck out our report and presentation!"
+    "text": "A project completed as the final project in STAT 112 - Introduction to Data Science in the spring of 2024. An introductory set of visualizations and tables that give insight into the different raw number and proportions of species classified as some level of threatened by the US National Park service. One of the main focuses of the assignment was the data cleaning process, which included the joining of a few separate datasets, creating new categorical variables for the numerous national park regions, and the removal of any missing data.\n\n\nThis presentation was created by Katelyn McClure, Megan Diller, and Sydney Stratton.\n\n\nCheck out our report and presentation!"
   },
   {
     "objectID": "projects/STEAM/index.html",
