@@ -13,7 +13,7 @@ A report completed as the final project in STAT 155 - Introduction to Statistica
 
 \
 
-This report was created by [Katelyn McClure](https://github.com/katelynmcclure), [Julia Brandfonbrener](https://www.linkedin.com/in/julia-b-88a765256/), Sam Fyle, and [Lilabeth Sokolewicz.](https://www.linkedin.com/in/lilabeth-sokolewicz-428490242/) 
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io), [Julia Brandfonbrener](https://www.linkedin.com/in/julia-b-88a765256/), Sam Fyle, and [Lilabeth Sokolewicz.](https://www.linkedin.com/in/lilabeth-sokolewicz-428490242/) 
 
 \
 

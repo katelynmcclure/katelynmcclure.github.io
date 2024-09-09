@@ -13,7 +13,7 @@ A presentation completed as the final project in STAT 112 - Introduction to Data
 
 \
 
-This presentation was created by [Katelyn McClure](https://github.com/katelynmcclure), [Megan Diller](https://www.linkedin.com/in/megan-diller-96b44b238/), and [Sydney Stratton.](https://www.linkedin.com/in/sydney-stratton-b345a2243/) 
+This presentation was created by [Katelyn McClure](https://katelynmcclure.github.io), [Megan Diller](https://www.linkedin.com/in/megan-diller-96b44b238/), and [Sydney Stratton.](https://www.linkedin.com/in/sydney-stratton-b345a2243/) 
 
 \
 

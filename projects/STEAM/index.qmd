@@ -9,11 +9,11 @@ about:
 
 \
 
-Admixture mapping is important for identifying disease genes, especially in populations with mixed ancestry. In the summer of 2024, we worked on improving an R package, called STEAM, that finds a genome-wide significance threshold that can be used in admixture mapping. Our process started with reviewing how other researchers were utilizing STEAM in their own research projects, and then using this understanding to improve and debug the code. We also prioritized enhancing the usability of the STEAM package with new features and updated documentation in addition to making efforts to increase STEAM’s visibility as an R package.
+Admixture mapping is important for identifying disease genes, especially in populations with mixed ancestry. In the summer of 2024, we worked on improving an R package, called STEAM, that finds a genome-wide significance threshold that can be used in admixture mapping. Our process started with reviewing how other researchers were utilizing STEAM in their own research projects, and then using this understanding to improve and debug the code. We also prioritized enhancing the usability of the STEAM package with new features and updated documentation in addition to making efforts to increase STEAM’s visibility as an R package. My primary focus was creating a vignette to serve as a guide for new users of the package.
 
 \
 
-This project was led by [Dr. Kelsey Grinde](https://kegrinde.github.io/) with undergraduate research assistants [Katelyn McClure](https://github.com/katelynmcclure), [Sydney Ohr](https://sydneyohr.github.io/), and [Tina Chen.](https://www.linkedin.com/in/tina-chen-748a07231/) 
+This project was led by [Dr. Kelsey Grinde](https://kegrinde.github.io/) with undergraduate research assistants [Katelyn McClure](https://katelynmcclure.github.io), [Sydney Ohr](https://sydneyohr.github.io/), and [Tina Chen.](https://www.linkedin.com/in/tina-chen-748a07231/) 
 
 \
 
