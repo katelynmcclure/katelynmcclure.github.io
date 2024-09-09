@@ -1,0 +1,22 @@
+---
+title: "STAT 155 Final Group Project"
+description: "Comparing Greenhouse Gas Emissions and Gross Domestic Product: An Analysis of Global Economic and Environmental Equity"
+image: websitestat155.png
+about:
+  template: solana
+  image: websitestat155.png
+---
+
+\
+
+A report completed as the final project in STAT 155 - Introduction to Statistical Modeling in the fall of 2023. An introductory analysis of the relationship between 9 different countries' greenhouse gas emissions (GHG) and their gross domestic products (GDP). The report includes linear regression models that capture the relationship between GHG and GDP across our 3 different categories of countries: high, median, and low GDP.
+
+\
+
+This report was created by [Katelyn McClure](https://github.com/katelynmcclure), [Julia Brandfonbrener](https://www.linkedin.com/in/julia-b-88a765256/), Sam Fyle, and [Lilabeth Sokolewicz.](https://www.linkedin.com/in/lilabeth-sokolewicz-428490242/) 
+
+\
+
+[Check out the report!](https://docs.google.com/document/d/1RMU2g8sHQonV7shDWZIfoherOiBN0tCvUKAjphZWuCE/edit?usp=sharing) 
+
+

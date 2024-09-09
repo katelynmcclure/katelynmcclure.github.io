@@ -1,0 +1,22 @@
+---
+title: "STEAM: Summer Research 2024"
+description: "Significance Threshold Estimation for Admixture Mapping (STEAM), an R Package"
+image: websiteSTEAM.png
+about:
+  template: solana
+  image: websiteSTEAM.png
+---
+
+\
+
+Admixture mapping is important for identifying disease genes, especially in populations with mixed ancestry. In the summer of 2024, we worked on improving an R package, called STEAM, that finds a genome-wide significance threshold that can be used in admixture mapping. Our process started with reviewing how other researchers were utilizing STEAM in their own research projects, and then using this understanding to improve and debug the code. We also prioritized enhancing the usability of the STEAM package with new features and updated documentation in addition to making efforts to increase STEAM’s visibility as an R package.
+
+\
+
+This project was led by [Dr. Kelsey Grinde](https://kegrinde.github.io/) with undergraduate research assistants [Katelyn McClure](https://github.com/katelynmcclure), [Sydney Ohr](https://sydneyohr.github.io/), and [Tina Chen.](https://www.linkedin.com/in/tina-chen-748a07231/) 
+
+\
+
+Check out our [research poster](https://docs.google.com/presentation/d/1vlFi-4wYF0KToYsOiXTTGmcKlemttCUj/edit?usp=sharing&ouid=114677377083099281803&rtpof=true&sd=true) and the [STEAM R package!](https://github.com/GrindeLab/STEAM)
+
+

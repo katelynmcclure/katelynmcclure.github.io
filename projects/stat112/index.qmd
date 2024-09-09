@@ -1,0 +1,21 @@
+---
+title: "STAT 112 Final Group Project"
+description: "Conservation Status of Species in the United States National Parks"
+image: websitestat112.png
+about:
+  template: solana
+  image: websitestat112.png
+---
+
+\
+
+A presentation completed as the final project in STAT 112 - Introduction to Data Science in the spring of 2024. An introductory set of visualizations and tables that give insight into the different raw number and proportions of species classified as some level of threatened by the US National Park service. One of the main focuses of the assignment was the data cleaning process, which included the joining of a few separate datasets, creating new categorical variables for the numerous national park regions, and the removal of any missing data.
+
+\
+
+This presentation was created by [Katelyn McClure](https://github.com/katelynmcclure), [Megan Diller](https://www.linkedin.com/in/megan-diller-96b44b238/), and [Sydney Stratton.](https://www.linkedin.com/in/sydney-stratton-b345a2243/) 
+
+\
+
+Check out our [report](https://github.com/katelynmcclure/STAT112/tree/main) and [presentation!](https://docs.google.com/presentation/d/17ZKjrO5rHn9257kclH3qPhR-3JHm-JfDD94XIt4WQg4/edit?usp=sharing)
+

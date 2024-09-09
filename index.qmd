@@ -1,11 +1,42 @@
 ---
-title: "katelynmcclure.github.io"
+title: "Katelyn McClure"
+about:
+  id: intro-heading
+  template: solana
+  image: image/katelynmccluresummershowcaseheadshot.jpg
+  image-shape: round
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/katelyncmcclure/
+    - icon: github
+      href: https://github.com/katelynmcclure
+    - icon: envelope
+      href: mailto:kmcclure@macalester.edu
 ---
 
-This is a Quarto website.
+\
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#intro-heading}
 
-```{r}
-1 + 1
-```
+I am a student at Macalester College studying Statistics and Mathematics. I am passionate about equity as it relates to data collection and analysis, especially in the world of sports analytics. I love statistics because it can be relevant to a wide variety of other fields, and I am excited to see where my studies take me in the professional world.
+
+## Education
+
+Macalester College | St. Paul MN <br>
+B.A. in Statistics | Sept 2022 - May 2026
+
+:::
+
+## About Me
+
+Outside of my studies, I enjoy Minnesota winters (like a true life-long Minnesotan!), spending time with my two cats, watching *Impractical Jokers*, and attending concerts in the Twin Cities area. 
+
+::: {layout-nrow=1}
+![A 50 degree day at [Buck Hill](https://en.wikipedia.org/wiki/Buck_Hill)? Seems like shorts weather to me!](image/shortsdaysolo.jpg)
+
+![Jovie (left) and Buddy (right) both sitting with me. A very rare occurrance. ](image/buddyjoviekatelynsquad.JPG)
+
+![The life-sized [*Impractical Jokers*](https://en.wikipedia.org/wiki/Impractical_Jokers) cutouts I made for my sophomore year dorm room. ](image/kirk625ij2.jpg)
+
+![My friend Ashley and I watching [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) perform at the Fillmore Minneapolis.](image/katelynashleyjbass.jpg)
+:::
