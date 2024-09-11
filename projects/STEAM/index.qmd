@@ -2,6 +2,7 @@
 title: "STEAM: Summer Research 2024"
 description: "Significance Threshold Estimation for Admixture Mapping (STEAM), an R Package"
 image: websiteSTEAM.png
+date: 07-19-2024
 about:
   template: solana
   image: websiteSTEAM.png

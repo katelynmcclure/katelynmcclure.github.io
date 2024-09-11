@@ -2,6 +2,7 @@
 title: "STAT 155 Final Group Project"
 description: "Comparing Greenhouse Gas Emissions and Gross Domestic Product: An Analysis of Global Economic and Environmental Equity"
 image: websitestat155.png
+date: 12-01-2023
 about:
   template: solana
   image: websitestat155.png
