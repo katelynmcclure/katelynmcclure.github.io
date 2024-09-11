@@ -2,6 +2,7 @@
 title: "STAT 112 Final Group Project"
 description: "Conservation Status of Species in the United States National Parks"
 image: websitestat112.png
+date: 05-2024
 about:
   template: solana
   image: websitestat112.png
