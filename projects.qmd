@@ -10,5 +10,8 @@ listing:
 page-layout: full
 title-block-banner: true
 comments: false
+format:
+  html:
+    css: styles.css
 ---
 

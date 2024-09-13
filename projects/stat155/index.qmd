@@ -8,6 +8,9 @@ about:
   image: websitestat155.png
 categories: 
   - Course Project
+format:
+  html:
+    css: styles.css
 ---
 
 \

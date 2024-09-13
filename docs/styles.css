@@ -10,7 +10,7 @@
   color: white !important; 
 }
 
-/* Adjust the color of the active link */
+/* Set the color of the active link */
 a {
   color: #54B98F; 
   text-decoration: none; /* remove underline */
@@ -22,7 +22,7 @@ a:hover {
 }
 
 
-/* Change the color of visited links */
+/* Change the color of visited links from green to purple*/
 a:visited {
   color: #8c7cb7; 
 }
