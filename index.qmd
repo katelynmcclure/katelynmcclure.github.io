@@ -15,6 +15,9 @@ about:
       href: mailto:kmcclure@macalester.edu
     - text: "Hear my name!"
       href: https://namedrop.io/katelynmcclure
+format:
+  html:
+    css: styles.css
 ---
 
 \

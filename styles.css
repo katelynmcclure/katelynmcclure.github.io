@@ -1,1 +1,26 @@
 /* css styles */
+
+/* Adjust header color */
+.navbar {
+  background-color: #3E5A7C !important; 
+}
+
+/* Adjust text color within the header */
+.navbar a, .navbar .navbar-brand {
+  color: white !important; 
+}
+
+a {
+  color: #54B98F; /* Set to your desired color */
+  text-decoration: none; /* Optional: remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Optional: add underline on hover */
+}
+
+
+/* Change the color of visited links */
+a:visited {
+  color: #8c7cb7; /* Set to your desired visited link color */
+}
