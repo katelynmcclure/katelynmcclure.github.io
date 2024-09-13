@@ -4,6 +4,7 @@ about:
   id: intro-heading
   template: solana
   image: image/katelynmccluresummershowcaseheadshot.jpg
+  image-width: 20em
   image-shape: round
   links:
     - icon: linkedin
@@ -17,6 +18,8 @@ about:
 \
 
 :::{#intro-heading}
+
+[Hear my name!](https://namedrop.io/katelynmcclure)
 
 I am a student at Macalester College studying Statistics and Mathematics. I am passionate about equity as it relates to data collection and analysis, especially in the world of sports analytics. I love statistics because it can be relevant to a wide variety of other fields, and I am excited to see where my studies take me in the professional world.
 
