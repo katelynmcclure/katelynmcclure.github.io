@@ -13,13 +13,13 @@ about:
       href: https://github.com/katelynmcclure
     - icon: envelope
       href: mailto:kmcclure@macalester.edu
+    - text: "Hear my name!"
+      href: https://namedrop.io/katelynmcclure
 ---
 
 \
 
 :::{#intro-heading}
-
-[Hear my name!](https://namedrop.io/katelynmcclure)
 
 I am a student at Macalester College studying Statistics and Mathematics. I am passionate about equity as it relates to data collection and analysis, especially in the world of sports analytics. I love statistics because it can be relevant to a wide variety of other fields, and I am excited to see where my studies take me in the professional world.
 
