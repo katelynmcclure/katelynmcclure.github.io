@@ -9,12 +9,16 @@ about:
   links:
     - icon: linkedin
       href: https://www.linkedin.com/in/katelyncmcclure/
+      target: _blank
     - icon: github
       href: https://github.com/katelynmcclure
+      target: _blank
     - icon: envelope
       href: mailto:kmcclure@macalester.edu
+      target: _blank
     - text: "Hear my name!"
       href: https://namedrop.io/katelynmcclure
+      target: _blank
 format:
   html:
     css: styles.css
