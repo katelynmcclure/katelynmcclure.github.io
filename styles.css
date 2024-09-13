@@ -10,17 +10,19 @@
   color: white !important; 
 }
 
+/* Adjust the color of the active link */
 a {
-  color: #54B98F; /* Set to your desired color */
-  text-decoration: none; /* Optional: remove underline */
+  color: #54B98F; 
+  text-decoration: none; /* remove underline */
 }
 
+/* Underline links on hover */
 a:hover {
-  text-decoration: underline; /* Optional: add underline on hover */
+  text-decoration: underline; 
 }
 
 
 /* Change the color of visited links */
 a:visited {
-  color: #8c7cb7; /* Set to your desired visited link color */
+  color: #8c7cb7; 
 }
