@@ -16,10 +16,10 @@ Admixture mapping is important for identifying disease genes, especially in popu
 
 \
 
-This project was led by [Dr. Kelsey Grinde](https://kegrinde.github.io/) with undergraduate research assistants [Katelyn McClure](https://katelynmcclure.github.io), [Sydney Ohr](https://sydneyohr.github.io/), and [Tina Chen.](https://www.linkedin.com/in/tina-chen-748a07231/) 
+This project was led by [Dr. Kelsey Grinde](https://kegrinde.github.io/){target="_blank"} with undergraduate research assistants [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"}, [Sydney Ohr](https://sydneyohr.github.io/){target="_blank"}, and [Tina Chen.](https://www.linkedin.com/in/tina-chen-748a07231/){target="_blank"} 
 
 \
 
-Check out our [research poster](https://docs.google.com/presentation/d/1vlFi-4wYF0KToYsOiXTTGmcKlemttCUj/edit?usp=sharing&ouid=114677377083099281803&rtpof=true&sd=true) and the [STEAM R package!](https://github.com/GrindeLab/STEAM)
+Check out our [research poster](https://docs.google.com/presentation/d/1vlFi-4wYF0KToYsOiXTTGmcKlemttCUj/edit?usp=sharing&ouid=114677377083099281803&rtpof=true&sd=true){target="_blank"} and the [STEAM R package!](https://github.com/GrindeLab/STEAM){target="_blank"}
 
 

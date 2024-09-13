@@ -16,9 +16,9 @@ A project completed as the final project in STAT 112 - Introduction to Data Scie
 
 \
 
-This presentation was created by [Katelyn McClure](https://katelynmcclure.github.io), [Megan Diller](https://www.linkedin.com/in/megan-diller-96b44b238/), and [Sydney Stratton.](https://www.linkedin.com/in/sydney-stratton-b345a2243/) 
+This presentation was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"}, [Megan Diller](https://www.linkedin.com/in/megan-diller-96b44b238/){target="_blank"}, and [Sydney Stratton.](https://www.linkedin.com/in/sydney-stratton-b345a2243/){target="_blank"} 
 
 \
 
-Check out our [report](https://github.com/katelynmcclure/STAT112/tree/main) and [presentation!](https://docs.google.com/presentation/d/17ZKjrO5rHn9257kclH3qPhR-3JHm-JfDD94XIt4WQg4/edit?usp=sharing)
+Check out our [report](https://github.com/katelynmcclure/STAT112/tree/main){target="_blank"} and [presentation!](https://docs.google.com/presentation/d/17ZKjrO5rHn9257kclH3qPhR-3JHm-JfDD94XIt4WQg4/edit?usp=sharing){target="_blank"}
 
