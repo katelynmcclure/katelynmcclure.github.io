@@ -6,6 +6,8 @@ date: 05-03-2024
 about:
   template: solana
   image: websitestat112.png
+categories: 
+  - Course Project
 ---
 
 \
