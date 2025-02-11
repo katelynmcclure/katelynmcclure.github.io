@@ -26,27 +26,24 @@ format:
 
 \
 
-:::{#intro-heading}
-
+::: {#intro-heading}
 I am a student at Macalester College studying Statistics and Mathematics. I am passionate about equity as it relates to data collection and analysis, especially in the world of sports analytics. I love statistics because it can be relevant to a wide variety of other fields, and I am excited to see where my studies take me in the professional world.
 
 \
 
 ## Education
 
-Macalester College | St. Paul, MN <br>
-B.A. in Statistics | Sept 2022 - May 2026
-
+Macalester College \| St. Paul, MN <br> B.A. in Statistics \| Sept 2022 - May 2026
 :::
 
 ## About Me
 
-Outside of my studies, I enjoy Minnesota winters (like a true life-long Minnesotan!), spending time with my two cats, watching *Impractical Jokers*, and attending concerts in the Twin Cities area. 
+Outside of my studies, I enjoy Minnesota winters (like a true life-long Minnesotan!), spending time with my two cats, watching *Impractical Jokers*, and attending concerts in the Twin Cities area.
 
-::: {layout-nrow=1}
+::: {layout-nrow="1"}
 ![A 50 degree day at [Buck Hill](https://en.wikipedia.org/wiki/Buck_Hill){target="_blank"}? Seems like shorts weather to me!](image/shortsdaysolo.jpg)
 
-![Jovie (left) and Buddy (right) both sitting with me. A very rare occurrance. ](image/buddyjoviekatelynsquad.JPG)
+![Jovie (left) and Buddy (right) both sitting with me. A very rare occurrance.](image/buddyjoviekatelynsquad.JPG)
 
 ![The life-sized [*Impractical Jokers*](https://www.youtube.com/watch?v=uT96eX7JJ3Q){target="_blank"} cutouts I made for my sophomore year dorm room.](image/kirk625ij2.jpg)
 
