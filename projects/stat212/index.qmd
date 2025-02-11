@@ -1,0 +1,28 @@
+---
+title: "STAT 212 Semester Project"
+description: "A Shiny App containing our Macalester Women's Volleyball Statistical Analysis"
+image: macvball.png
+date: 12-14-2024
+about:
+  template: solana
+  image: macvball.png
+categories: 
+  - Course Project
+format:
+  html:
+    css: styles.css
+---
+
+\
+
+A project completed as the final project in STAT 212 - Intermediate Data Science in the fall of 2024. As a semester-long culmination of work, we collaborated with the Macalester Women's Volleyball coaching staff to craft two main research questions: how can game statistics be used to predict the outcome of a game, and how have senior players (graduating class of 2025) improved over their time at Macalester. Our work is summarized and visualized in an interactive Shiny app, which can be accessed below.
+
+\
+
+This project was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"}, and Kynan Desouza-Chen. 
+
+\
+
+Check out our [Shiny app!](https://kdesouza.shinyapps.io/final_app/){target="_blank"} 
+
+

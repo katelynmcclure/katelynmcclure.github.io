@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2024-07-19">
+<meta name="description" content="Significance Threshold Estimation for Admixture Mapping (STEAM), an R Package">
 
-<title>Katelyn McClure</title>
+<title>STEAM: Summer Research 2024 – Katelyn McClure</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,17 +71,18 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="../../styles.css">
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Katelyn McClure</span>
     </a>
   </div>
@@ -90,11 +93,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
 </ul>
@@ -109,112 +112,51 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
-
-
-
-
-<p><br>
-</p>
 <div class="quarto-about-solana column-body">
   <div class="about-entity">
     <div class="entity-contents">
       <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Katelyn McClure</h1>
+<h1 class="title">STEAM: Summer Research 2024</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Research</div>
+  </div>
+  </div>
+<div>
+  <div class="description">
+    Significance Threshold Estimation for Admixture Mapping (STEAM), an R Package
+  </div>
 </div>
 <div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">July 19, 2024</p>
+    </div>
   </div>
-</header> <div class="about-links">
-  <a href="https://www.linkedin.com/in/katelyncmcclure/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://github.com/katelynmcclure" class="about-link" rel="" target="_blank">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="mailto:kmcclure@macalester.edu" class="about-link" rel="" target="_blank">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://namedrop.io/katelynmcclure" class="about-link" rel="" target="_blank">
-     <span class="about-link-text">Hear my name!</span>
-  </a>
-</div>
-      <div class="about-contents"><div id="intro-heading">
-<p>I am a student at Macalester College studying Statistics and Mathematics. I am passionate about equity as it relates to data collection and analysis, especially in the world of sports analytics. I love statistics because it can be relevant to a wide variety of other fields, and I am excited to see where my studies take me in the professional world.</p>
+  </div>
+</header> 
+      <div class="about-contents"><main class="content" id="quarto-document-content">
 <p><br>
 </p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<p>Macalester College | St.&nbsp;Paul, MN <br> B.A. in Statistics | Sept 2022 - May 2026</p>
-</section>
-</div></div>
+<p>Admixture mapping is important for identifying disease genes, especially in populations with mixed ancestry. In the summer of 2024, we worked on improving an R package, called STEAM, that finds a genome-wide significance threshold that can be used in admixture mapping. Our process started with reviewing how other researchers were utilizing STEAM in their own research projects, and then using this understanding to improve and debug the code. We also prioritized enhancing the usability of the STEAM package with new features and updated documentation in addition to making efforts to increase STEAM’s visibility as an R package. My primary focus was creating a vignette to serve as a guide for new users of the package.</p>
+<p><br>
+</p>
+<p>This project was led by <a href="https://kegrinde.github.io/" target="_blank">Dr.&nbsp;Kelsey Grinde</a> with undergraduate research assistants <a href="https://katelynmcclure.github.io" target="_blank">Katelyn McClure</a>, <a href="https://sydneyohr.github.io/" target="_blank">Sydney Ohr</a>, and <a href="https://www.linkedin.com/in/tina-chen-748a07231/" target="_blank">Tina Chen.</a></p>
+<p><br>
+</p>
+<p>Check out our <a href="https://docs.google.com/presentation/d/1vlFi-4wYF0KToYsOiXTTGmcKlemttCUj/edit?usp=sharing&amp;ouid=114677377083099281803&amp;rtpof=true&amp;sd=true" target="_blank">research poster</a> and the <a href="https://github.com/GrindeLab/STEAM" target="_blank">STEAM R package!</a></p>
+
+
+</main></div>
     </div>
-    <img src="image/katelynbarcelona.jpg" class="about-image
-  round " style="height: 20em; width: 20em;">
+    <img src="websiteSTEAM.png" class="about-image
+  rounded " style="width: 15em;">
   </div>
 </div>
-
-<section id="about-me" class="level2">
-<h2 data-anchor-id="about-me">About Me</h2>
-<p>Outside of my studies, I enjoy Minnesota winters (like a true life-long Minnesotan!), spending time with my two cats, watching <em>Impractical Jokers</em>, and attending concerts in the Twin Cities area.</p>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout-nrow="1">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="image/shortsdaysolo.jpg" class="img-fluid figure-img"></p>
-<figcaption>A 50 degree day at <a href="https://en.wikipedia.org/wiki/Buck_Hill" target="_blank">Buck Hill</a>? Seems like shorts weather to me!</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="image/buddyjoviekatelynsquad.JPG" class="img-fluid figure-img"></p>
-<figcaption>Jovie (left) and Buddy (right) both sitting with me. A very rare occurrance.</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="image/kirk625ij2.jpg" class="img-fluid figure-img"></p>
-<figcaption>The life-sized <a href="https://www.youtube.com/watch?v=uT96eX7JJ3Q" target="_blank"><em>Impractical Jokers</em></a> cutouts I made for my sophomore year dorm room.</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="image/katelynashleyjbass.jpg" class="img-fluid figure-img"></p>
-<figcaption>My friend Ashley and I watching <a href="https://open.spotify.com/track/1lWtt6T1RiLUrUnGCp2Yci" target="_blank">Joshua Bassett</a> perform at the Fillmore Minneapolis.</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-
-
-
-</section>
-
-</main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
