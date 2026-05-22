@@ -38,14 +38,14 @@ Macalester College \| Saint Paul, MN <br> B.A. in Statistics \| Sept 2022 - May 
 
 ## About Me
 
-Outside of my studies, I enjoy Minnesota winters (like a true life-long Minnesotan!), spending time with my two cats, watching *Impractical Jokers*, and attending concerts in the Twin Cities area.
+Outside of my studies, I enjoy watching Minnesota sports, staying active, playing my bagpipe, and enjoying winters (like a true life-long Minnesotan!)
 
-::: {layout-nrow="1"}
-![A 50 degree day at [Buck Hill](https://en.wikipedia.org/wiki/Buck_Hill){target="_blank"}? Seems like shorts weather to me!](image/shortsdaysolo.jpg)
+::: {layout-nrow="2"}
+![My dad and I cheering on the Minnesota Frost at the Walter Cup championship game in 2025! We were [shown on TV](https://youtu.be/c4kuOsNF53I?si=3y94GH9Ql1P4qH2A&t=4388){target="_blank"} (well, kinda!) ](image/frost.jpeg)
 
-![Jovie (left) and Buddy (right) both sitting with me. A very rare occurrance.](image/buddyjoviekatelynsquad.JPG)
+![The [Clementines](https://www.instagram.com/macclementines/){target="_blank"}, Macalester's Women's/Gender Inclusive club soccer team that I helped lead in college!](image/clems.jpeg)
 
-![The life-sized [*Impractical Jokers*](https://www.youtube.com/watch?v=uT96eX7JJ3Q){target="_blank"} cutouts I made for my sophomore year dorm room.](image/kirk625ij2.jpg)
+![My roommates and I took up bagpiping during our time at Macalester ([and were interviewed on TCL](https://www.youtube.com/watch?v=7585J59onII))! Here we are in Winnipeg, where our pipe band recieved first place.](image/bagpipe.jpeg)
 
-![My friend Ashley and I watching [Joshua Bassett](https://open.spotify.com/track/1lWtt6T1RiLUrUnGCp2Yci){target="_blank"} perform at the Fillmore Minneapolis.](image/katelynashleyjbass.jpg)
+![I love spending a beautiful day on the slopes.](image/lutsengif.gif)
 :::
