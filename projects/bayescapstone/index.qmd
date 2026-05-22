@@ -1,0 +1,31 @@
+---
+title: "Bayesian Statistics Final Project"
+description: "Bayesian Model Averaging"
+image: bayescapstonepic.png
+date: 05-22-2026
+about:
+  template: solana
+  image: bayescapstonepic.png
+categories: 
+  - Course Project
+  - Capstone Project
+format:
+  html:
+    css: styles.css
+---
+
+\
+
+A report completed as the final project in [STAT 454 - Bayesian Statistics](https://catalog.macalester.edu/preview_course_nopop.php?catoid=28&coid=145414) in the spring of 2026. This project applies Bayesian Model Averaging (BMA) to simulated regression data to account for model uncertainty by averaging across many possible predictor combinations instead of selecting a single “best” model. The results show that BMA successfully identifies true predictors ($x_1$ and $x_3$), filters out noise variables even in large model spaces, and produces accurate predictions while highlighting the usefulness of methods like Occam’s Window and MCMC for scalable model selection..
+
+\
+
+A capstone experience in Macalester’s [Mathematics, Statistics, and Computer Science department](https://www.macalester.edu/mscs/) is a year-long, culminating project in which students complete substantial independent work in a 400-level course and then develop it into a polished, public-facing presentation. The process includes a senior seminar focused on translating technical work into a clear narrative for general audiences, followed by a 15–20 minute talk at Capstone Days where students present their work in a department-wide mini-conference. Statistics majors are required to take two 400-level courses to graduate, but only need to present one capstone project during capstone days.
+
+\
+
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"} and [Isa Chen](https://www.linkedin.com/in/jinglei-chen-267364301/){target="_blank"} for Professor Taylor Okonek.
+
+\
+
+Check out the [report](BMACapstone.pdf){target="_blank"} and my final class presentation [slide deck](454%20Capstone_Bayesian%20Model%20Averaging.pdf)!

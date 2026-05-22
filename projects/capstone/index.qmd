@@ -1,0 +1,31 @@
+---
+title: "Capstone Project"
+description: "Looking for Leisure: Estimating the Impact of Leisure Venues on the Twin Cities"
+image: map20.png
+date: 12-01-2025
+about:
+  template: solana
+  image: map20.png
+categories: 
+  - Course Project
+  - Capstone Project
+format:
+  html:
+    css: styles.css
+---
+
+\
+
+A report completed as the final project in [STAT 452 - Correlated Data](https://catalog.macalester.edu/preview_course_nopop.php?catoid=28&coid=145820) in the fall of 2025. A longitudinal analysis using GEE to estimate the impact of income, land value, and year to view trends in the presence of leisure venues (museums, sports venues, theaters, etc.) in the 7-county Twin Cities metro area of Minnesota.
+
+\
+
+A capstone experience in Macalester’s [Mathematics, Statistics, and Computer Science department](https://www.macalester.edu/mscs/) is a year-long, culminating project in which students complete substantial independent work in a 400-level course and then develop it into a polished, public-facing presentation. The process includes a senior seminar focused on translating technical work into a clear narrative for general audiences, followed by a 15–20 minute talk at Capstone Days where students present their work in a department-wide mini-conference.
+
+\
+
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"} and [Lilabeth Sokolewicz](https://www.linkedin.com/in/lilabeth-sokolewicz-428490242/){target="_blank"} for Professor Brianna Heggeseth.
+
+\
+
+Check out the [report](report.html){target="_blank"} and my Capstone Days [slide deck](Looking%20for%20Leisure_%20Capstone%20Presentation.pdf)!

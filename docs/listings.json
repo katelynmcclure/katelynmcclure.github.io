@@ -2,10 +2,17 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/STEAM/index.html",
+      "/projects/bayescapstone/index.html",
+      "/projects/bayesTR2/index.html",
+      "/projects/bayesTR1/index.html",
+      "/projects/capstone/index.html",
+      "/projects/miniproject3/index.html",
+      "/projects/miniproject2/index.html",
+      "/projects/miniproject1/index.html",
       "/projects/stat212/index.html",
-      "/projects/stat155/index.html",
-      "/projects/stat112/index.html"
+      "/projects/STEAM/index.html",
+      "/projects/stat112/index.html",
+      "/projects/stat155/index.html"
     ]
   }
 ]

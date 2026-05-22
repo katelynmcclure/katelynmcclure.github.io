@@ -1,0 +1,26 @@
+---
+title: "Mini Project - Time Series"
+description: "Time Series Modeling and Forecasting: An Exploration of Electricity Use in Macalester’s Eco House"
+image: ecohouse08.jpg
+date: 10-09-2025
+about:
+  template: solana
+  image: ecohouse08.jpg
+categories: 
+  - Course Project
+format:
+  html:
+    css: styles.css
+---
+
+\
+
+A report completed as a "Mini Project" in [STAT 452 - Correlated Data](https://catalog.macalester.edu/preview_course_nopop.php?catoid=28&coid=145820) in the fall of 2025. This project analyzes electricity usage at Macalester’s Eco House using time series methods to identify long-term trends, seasonal patterns, and forecast future consumption. The results show a peak in usage around 2018 followed by a gradual decline, strong seasonal variation, and stable short-term dynamics captured well by an AR(2) model.
+
+\
+
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"} and [Lilabeth Sokolewicz](https://www.linkedin.com/in/lilabeth-sokolewicz-428490242/){target="_blank"} for Professor Brianna Heggeseth.
+
+\
+
+Check out the [report](mini-project-template.html){target="_blank"}!

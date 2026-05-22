@@ -15,14 +15,12 @@ format:
 
 \
 
-A report completed as the final project in STAT 155 - Introduction to Statistical Modeling in the fall of 2023. An introductory analysis of the relationship between 9 different countries' greenhouse gas emissions (GHG) and their gross domestic products (GDP). The report includes linear regression models that capture the relationship between GHG and GDP across our 3 different categories of countries: high, median, and low GDP.
+A report completed as the final project in [STAT 155 - Introduction to Statistical Modeling](https://catalog.macalester.edu/preview_course_nopop.php?catoid=28&coid=144501) in the fall of 2023. An introductory analysis of the relationship between 9 different countries' greenhouse gas emissions (GHG) and their gross domestic products (GDP). The report includes linear regression models that capture the relationship between GHG and GDP across our 3 different categories of countries: high, median, and low GDP.
 
 \
 
-This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"}, [Julia Brandfonbrener](https://www.linkedin.com/in/julia-b-88a765256/){target="_blank"}, Sam Fyle, and [Lilabeth Sokolewicz.](https://www.linkedin.com/in/lilabeth-sokolewicz-428490242/){target="_blank"} 
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"}, [Julia Brandfonbrener](https://www.linkedin.com/in/julia-b-88a765256/){target="_blank"}, [Sam Fyle](https://www.linkedin.com/in/samuel-fyle-636406308/){target="_blank"}, and [Lilabeth Sokolewicz](https://www.linkedin.com/in/lilabeth-sokolewicz-428490242/){target="_blank"}.
 
 \
 
-Check out the [report!](https://docs.google.com/document/d/1RMU2g8sHQonV7shDWZIfoherOiBN0tCvUKAjphZWuCE/edit?usp=sharing){target="_blank"} 
-
-
+Check out the [report](https://docs.google.com/document/d/1RMU2g8sHQonV7shDWZIfoherOiBN0tCvUKAjphZWuCE/edit?usp=sharing){target="_blank"}!

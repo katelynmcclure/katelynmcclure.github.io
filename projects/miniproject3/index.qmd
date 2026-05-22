@@ -1,0 +1,26 @@
+---
+title: "Mini Project - Spatial"
+description: "Exploring cognitive intervention impacts on Reasoning from the ACTIVE study"
+image: spatial.png
+date: 11-25-2025
+about:
+  template: solana
+  image: spatial.png
+categories: 
+  - Course Project
+format:
+  html:
+    css: styles.css
+---
+
+\
+
+A report completed as a "Mini Project" in [STAT 452 - Correlated Data](https://catalog.macalester.edu/preview_course_nopop.php?catoid=28&coid=145820) in the fall of 2025. This project examines how median household income and median age relate to home values across census tracts in Ramsey County, MN using spatial regression models that account for geographic dependence. The results show that higher-income and older-population areas tend to have higher home values, and a spatial error model (SAR) best captures the structure in the data by removing residual spatial autocorrelation.
+
+\
+
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"} and [Iris Fokam](https://www.linkedin.com/in/iris-fokam-769385255/){target="_blank"} for Professor Brianna Heggeseth.
+
+\
+
+Check out the [report](mini-project-template.html){target="_blank"}!

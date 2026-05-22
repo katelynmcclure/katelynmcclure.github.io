@@ -3,7 +3,7 @@ title: "Katelyn McClure"
 about:
   id: intro-heading
   template: solana
-  image: image/katelynbarcelona.jpg
+  image: image/grad_square.jpg
   image-width: 20em
   image-shape: round
   links:
@@ -14,7 +14,7 @@ about:
       href: https://github.com/katelynmcclure
       target: _blank
     - icon: envelope
-      href: mailto:kmcclure@macalester.edu
+      href: mailto:katelynmcclure2003@gmail.com
       target: _blank
     - text: "Hear my name!"
       href: https://namedrop.io/katelynmcclure
@@ -27,7 +27,7 @@ format:
 \
 
 ::: {#intro-heading}
-I am a student at Macalester College studying Statistics and Mathematics. I am passionate about equity as it relates to data collection and analysis, especially in the world of sports analytics. I love statistics because it can be relevant to a wide variety of other fields, and I am excited to see where my studies take me in the professional world.
+I am a recent graduate from [Macalester College](https://www.macalester.edu/){target="_blank"} with a B.A. in Statistics. I am passionate about equity as it relates to data collection and analysis, especially in the world of sports analytics. I am currently seeking full-time opportunities in data analysis and statistics roles where I can apply my quantitative background to solve real-world problems and support data-driven decision-making.
 
 \
 

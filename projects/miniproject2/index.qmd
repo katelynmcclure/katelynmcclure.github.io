@@ -1,0 +1,26 @@
+---
+title: "Mini Project - Longitudinal"
+description: "Exploring cognitive intervention impacts on Reasoning from the ACTIVE study"
+image: longitudinal.png
+date: 11-06-2025
+about:
+  template: solana
+  image: longitudinal.png
+categories: 
+  - Course Project
+format:
+  html:
+    css: styles.css
+---
+
+\
+
+A report completed as a "Mini Project" in [STAT 452 - Correlated Data](https://catalog.macalester.edu/preview_course_nopop.php?catoid=28&coid=145820) in the fall of 2025. This project uses a generalized estimating equation (GEE) model to study how cognitive training interventions in the ACTIVE study affect reasoning scores over time in older adults. The results show that both reasoning and other cognitive training groups improve performance relative to controls, with reasoning training having the strongest long-term positive effect.
+
+\
+
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"} and [Alicia Severiano Perez](https://www.linkedin.com/in/elinai-s-558995259/){target="_blank"} for Professor Brianna Heggeseth.
+
+\
+
+Check out the [report](mini-project-template.html){target="_blank"}!

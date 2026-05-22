@@ -11,28 +11,42 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSTEAM: Summer Research 2024\n\n\n\nResearch\n\n\n\nSignificance Threshold Estimation for Admixture Mapping (STEAM), an R Package\n\n\n\n\n\n\nJul 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 212 Semester Project\n\n\n\nCourse Project\n\n\n\nA Shiny App containing our Macalester Women’s Volleyball Statistical Analysis\n\n\n\n\n\n\nDec 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 155 Final Group Project\n\n\n\nCourse Project\n\n\n\nComparing Greenhouse Gas Emissions and Gross Domestic Product: An Analysis of Global Economic and Environmental Equity\n\n\n\n\n\n\nDec 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 112 Final Group Project\n\n\n\nCourse Project\n\n\n\nConservation Status of Species in the United States National Parks\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nBayesian Statistics Final Project\n\n\n\nCourse Project\n\nCapstone Project\n\n\n\nBayesian Model Averaging\n\n\n\n\n\n\nMay 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Technical Report 2\n\n\n\nCourse Project\n\n\n\nPower Plays and Winning in Mixed Doubles Curling: A Bayesian Analysis\n\n\n\n\n\n\nApr 13, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nBayesian Technical Report 1\n\n\n\nCourse Project\n\n\n\nSherlock Holmes: The Cauliflower Conundrum\n\n\n\n\n\n\nMar 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone Project\n\n\n\nCourse Project\n\nCapstone Project\n\n\n\nLooking for Leisure: Estimating the Impact of Leisure Venues on the Twin Cities\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMini Project - Spatial\n\n\n\nCourse Project\n\n\n\nExploring cognitive intervention impacts on Reasoning from the ACTIVE study\n\n\n\n\n\n\nNov 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMini Project - Longitudinal\n\n\n\nCourse Project\n\n\n\nExploring cognitive intervention impacts on Reasoning from the ACTIVE study\n\n\n\n\n\n\nNov 6, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMini Project - Time Series\n\n\n\nCourse Project\n\n\n\nTime Series Modeling and Forecasting: An Exploration of Electricity Use in Macalester’s Eco House\n\n\n\n\n\n\nOct 9, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 212 Semester Project\n\n\n\nCourse Project\n\n\n\nA Shiny App containing our Macalester Women’s Volleyball Statistical Analysis\n\n\n\n\n\n\nDec 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTEAM: Summer Research 2024\n\n\n\nResearch\n\n\n\nSignificance Threshold Estimation for Admixture Mapping (STEAM), an R Package\n\n\n\n\n\n\nJul 19, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 112 Final Group Project\n\n\n\nCourse Project\n\n\n\nConservation Status of Species in the United States National Parks\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nSTAT 155 Final Group Project\n\n\n\nCourse Project\n\n\n\nComparing Greenhouse Gas Emissions and Gross Domestic Product: An Analysis of Global Economic and Environmental Equity\n\n\n\n\n\n\nDec 1, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/stat155/index.html",
-    "href": "projects/stat155/index.html",
-    "title": "STAT 155 Final Group Project",
+    "objectID": "projects/miniproject3/index.html",
+    "href": "projects/miniproject3/index.html",
+    "title": "Mini Project - Spatial",
     "section": "",
-    "text": "A report completed as the final project in STAT 155 - Introduction to Statistical Modeling in the fall of 2023. An introductory analysis of the relationship between 9 different countries’ greenhouse gas emissions (GHG) and their gross domestic products (GDP). The report includes linear regression models that capture the relationship between GHG and GDP across our 3 different categories of countries: high, median, and low GDP.\n\n\nThis report was created by Katelyn McClure, Julia Brandfonbrener, Sam Fyle, and Lilabeth Sokolewicz.\n\n\nCheck out the report!"
+    "text": "A report completed as a “Mini Project” in STAT 452 - Correlated Data in the fall of 2025. This project examines how median household income and median age relate to home values across census tracts in Ramsey County, MN using spatial regression models that account for geographic dependence. The results show that higher-income and older-population areas tend to have higher home values, and a spatial error model (SAR) best captures the structure in the data by removing residual spatial autocorrelation.\n\n\nThis report was created by Katelyn McClure and Iris Fokam for Professor Brianna Heggeseth.\n\n\nCheck out the report!"
   },
   {
-    "objectID": "projects/STEAM/index.html",
-    "href": "projects/STEAM/index.html",
-    "title": "STEAM: Summer Research 2024",
+    "objectID": "projects/miniproject2/index.html",
+    "href": "projects/miniproject2/index.html",
+    "title": "Mini Project - Longitudinal",
     "section": "",
-    "text": "Admixture mapping is important for identifying disease genes, especially in populations with mixed ancestry. In the summer of 2024, we worked on improving an R package, called STEAM, that finds a genome-wide significance threshold that can be used in admixture mapping. Our process started with reviewing how other researchers were utilizing STEAM in their own research projects, and then using this understanding to improve and debug the code. We also prioritized enhancing the usability of the STEAM package with new features and updated documentation in addition to making efforts to increase STEAM’s visibility as an R package. My primary focus was creating a vignette to serve as a guide for new users of the package.\n\n\nThis project was led by Dr. Kelsey Grinde with undergraduate research assistants Katelyn McClure, Sydney Ohr, and Tina Chen.\n\n\nCheck out our research poster and the STEAM R package!"
+    "text": "A report completed as a “Mini Project” in STAT 452 - Correlated Data in the fall of 2025. This project uses a generalized estimating equation (GEE) model to study how cognitive training interventions in the ACTIVE study affect reasoning scores over time in older adults. The results show that both reasoning and other cognitive training groups improve performance relative to controls, with reasoning training having the strongest long-term positive effect.\n\n\nThis report was created by Katelyn McClure and Alicia Severiano Perez for Professor Brianna Heggeseth.\n\n\nCheck out the report!"
   },
   {
-    "objectID": "mysite/index.html",
-    "href": "mysite/index.html",
-    "title": "mysite",
+    "objectID": "projects/stat212/index.html",
+    "href": "projects/stat212/index.html",
+    "title": "STAT 212 Semester Project",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "A project completed as the final project in STAT 212 - Intermediate Data Science in the fall of 2024. As a semester-long culmination of work, we collaborated with the Macalester Women’s Volleyball coaching staff to craft two main research questions: how can game statistics be used to predict the outcome of a game, and how have senior players (graduating class of 2025) improved over their time at Macalester. Our work is summarized and visualized in an interactive Shiny app, which can be accessed below.\n\n\nThis project was created by Katelyn McClure and Kynan Desouza-Chen.\n\n\nCheck out our Shiny app!"
+  },
+  {
+    "objectID": "projects/stat112/index.html",
+    "href": "projects/stat112/index.html",
+    "title": "STAT 112 Final Group Project",
+    "section": "",
+    "text": "A project completed as the final project in STAT 112 - Introduction to Data Science in the spring of 2024. An introductory set of visualizations and tables that give insight into the different raw number and proportions of species classified as some level of threatened by the US National Park service. One of the main focuses of the assignment was the data cleaning process, which included the joining of a few separate datasets, creating new categorical variables for the numerous national park regions, and the removal of any missing data.\n\n\nThis report was created by Katelyn McClure, Megan Diller, and Sydney Stratton.\n\n\nCheck out our report and presentation!"
+  },
+  {
+    "objectID": "projects/miniproject1/index.html",
+    "href": "projects/miniproject1/index.html",
+    "title": "Mini Project - Time Series",
+    "section": "",
+    "text": "A report completed as a “Mini Project” in STAT 452 - Correlated Data in the fall of 2025. This project analyzes electricity usage at Macalester’s Eco House using time series methods to identify long-term trends, seasonal patterns, and forecast future consumption. The results show a peak in usage around 2018 followed by a gradual decline, strong seasonal variation, and stable short-term dynamics captured well by an AR(2) model.\n\n\nThis report was created by Katelyn McClure and Lilabeth Sokolewicz for Professor Brianna Heggeseth.\n\n\nCheck out the report!"
   },
   {
     "objectID": "mysite/about.html",
@@ -42,18 +56,53 @@
     "text": "About this site"
   },
   {
-    "objectID": "projects/stat112/index.html",
-    "href": "projects/stat112/index.html",
-    "title": "STAT 112 Final Group Project",
+    "objectID": "mysite/index.html",
+    "href": "mysite/index.html",
+    "title": "mysite",
     "section": "",
-    "text": "A project completed as the final project in STAT 112 - Introduction to Data Science in the spring of 2024. An introductory set of visualizations and tables that give insight into the different raw number and proportions of species classified as some level of threatened by the US National Park service. One of the main focuses of the assignment was the data cleaning process, which included the joining of a few separate datasets, creating new categorical variables for the numerous national park regions, and the removal of any missing data.\n\n\nThis presentation was created by Katelyn McClure, Megan Diller, and Sydney Stratton.\n\n\nCheck out our report and presentation!"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "projects/stat212/index.html",
-    "href": "projects/stat212/index.html",
-    "title": "STAT 212 Semester Project",
+    "objectID": "projects/bayescapstone/index.html",
+    "href": "projects/bayescapstone/index.html",
+    "title": "Bayesian Statistics Final Project",
     "section": "",
-    "text": "A project completed as the final project in STAT 212 - Intermediate Data Science in the fall of 2024. As a semester-long culmination of work, we collaborated with the Macalester Women’s Volleyball coaching staff to craft two main research questions: how can game statistics be used to predict the outcome of a game, and how have senior players (graduating class of 2025) improved over their time at Macalester. Our work is summarized and visualized in an interactive Shiny app, which can be accessed below.\n\n\nThis project was created by Katelyn McClure, and Kynan Desouza-Chen.\n\n\nCheck out our Shiny app!"
+    "text": "A report completed as the final project in STAT 454 - Bayesian Statistics in the spring of 2026. This project applies Bayesian Model Averaging (BMA) to simulated regression data to account for model uncertainty by averaging across many possible predictor combinations instead of selecting a single “best” model. The results show that BMA successfully identifies true predictors (\\(x_1\\) and \\(x_3\\)), filters out noise variables even in large model spaces, and produces accurate predictions while highlighting the usefulness of methods like Occam’s Window and MCMC for scalable model selection..\n\n\nA capstone experience in Macalester’s Mathematics, Statistics, and Computer Science department is a year-long, culminating project in which students complete substantial independent work in a 400-level course and then develop it into a polished, public-facing presentation. The process includes a senior seminar focused on translating technical work into a clear narrative for general audiences, followed by a 15–20 minute talk at Capstone Days where students present their work in a department-wide mini-conference. Statistics majors are required to take two 400-level courses to graduate, but only need to present one capstone project during capstone days.\n\n\nThis report was created by Katelyn McClure and Isa Chen for Professor Taylor Okonek.\n\n\nCheck out the report and my final class presentation slide deck!"
+  },
+  {
+    "objectID": "projects/STEAM/index.html",
+    "href": "projects/STEAM/index.html",
+    "title": "STEAM: Summer Research 2024",
+    "section": "",
+    "text": "Admixture mapping is important for identifying disease genes, especially in populations with mixed ancestry. In the summer of 2024, we worked on improving an R package, called STEAM, that finds a genome-wide significance threshold that can be used in admixture mapping. Our process started with reviewing how other researchers were utilizing STEAM in their own research projects, and then using this understanding to improve and debug the code. We also prioritized enhancing the usability of the STEAM package with new features and updated documentation in addition to making efforts to increase STEAM’s visibility as an R package. My primary focus was creating a vignette to serve as a guide for new users of the package.\n\n\nThis project was led by Dr. Kelsey Grinde with undergraduate research assistants Katelyn McClure, Sydney Ohr, and Tina Chen.\n\n\nCheck out our research poster and the STEAM R package!"
+  },
+  {
+    "objectID": "projects/stat155/index.html",
+    "href": "projects/stat155/index.html",
+    "title": "STAT 155 Final Group Project",
+    "section": "",
+    "text": "A report completed as the final project in STAT 155 - Introduction to Statistical Modeling in the fall of 2023. An introductory analysis of the relationship between 9 different countries’ greenhouse gas emissions (GHG) and their gross domestic products (GDP). The report includes linear regression models that capture the relationship between GHG and GDP across our 3 different categories of countries: high, median, and low GDP.\n\n\nThis report was created by Katelyn McClure, Julia Brandfonbrener, Sam Fyle, and Lilabeth Sokolewicz.\n\n\nCheck out the report!"
+  },
+  {
+    "objectID": "projects/bayesTR2/index.html",
+    "href": "projects/bayesTR2/index.html",
+    "title": "Bayesian Technical Report 2",
+    "section": "",
+    "text": "A report completed as a technical report in in STAT 454 - Bayesian Statistics in the spring of 2026. This project uses a Bayesian hierarchical logistic regression model to analyze whether using a Power Play in mixed doubles curling affects the U.S. team’s probability of winning a match.\n\n\nThis report was created by Katelyn McClure and Isa Chen for Professor Taylor Okonek.\n\n\nCheck out the report!"
+  },
+  {
+    "objectID": "projects/capstone/index.html",
+    "href": "projects/capstone/index.html",
+    "title": "Capstone Project",
+    "section": "",
+    "text": "A report completed as the final project in STAT 452 - Correlated Data in the fall of 2025. A longitudinal analysis using GEE to estimate the impact of income, land value, and year to view trends in the presence of leisure venues (museums, sports venues, theaters, etc.) in the 7-county Twin Cities metro area of Minnesota.\n\n\nA capstone experience in Macalester’s Mathematics, Statistics, and Computer Science department is a year-long, culminating project in which students complete substantial independent work in a 400-level course and then develop it into a polished, public-facing presentation. The process includes a senior seminar focused on translating technical work into a clear narrative for general audiences, followed by a 15–20 minute talk at Capstone Days where students present their work in a department-wide mini-conference.\n\n\nThis report was created by Katelyn McClure and Lilabeth Sokolewicz for Professor Brianna Heggeseth.\n\n\nCheck out the report and my Capstone Days slide deck!"
+  },
+  {
+    "objectID": "projects/bayesTR1/index.html",
+    "href": "projects/bayesTR1/index.html",
+    "title": "Bayesian Technical Report 1",
+    "section": "",
+    "text": "A report completed as a technical report in in STAT 454 - Bayesian Statistics in the spring of 2026. This project uses a Bayesian model (Beta–Geometric framework) to estimate the probability of growing a gold-star cauliflower in Stardew Valley, combining prior beliefs from online sources with empirical data from Twitch streams.\n\n\nThis report was created by Katelyn McClure and Max Clifford for Professor Taylor Okonek.\n\n\nCheck out the report!"
   },
   {
     "objectID": "index.html#education",
@@ -67,6 +116,6 @@
     "href": "index.html#about-me",
     "title": "Katelyn McClure",
     "section": "About Me",
-    "text": "About Me\nOutside of my studies, I enjoy Minnesota winters (like a true life-long Minnesotan!), spending time with my two cats, watching Impractical Jokers, and attending concerts in the Twin Cities area.\n\n\n\n\n\n\n\n\n\nA 50 degree day at Buck Hill? Seems like shorts weather to me!\n\n\n\n\n\n\n\nJovie (left) and Buddy (right) both sitting with me. A very rare occurrance.\n\n\n\n\n\n\n\nThe life-sized Impractical Jokers cutouts I made for my sophomore year dorm room.\n\n\n\n\n\n\n\nMy friend Ashley and I watching Joshua Bassett perform at the Fillmore Minneapolis."
+    "text": "About Me\nOutside of my studies, I enjoy Minnesota winters (like a true life-long Minnesotan!), spending time with my two cats, watching Impractical Jokers, and attending concerts in the Twin Cities area.\n\n\n\n\n\n\nA 50 degree day at Buck Hill? Seems like shorts weather to me!\n\n\n\n\n\n\n\nJovie (left) and Buddy (right) both sitting with me. A very rare occurrance.\n\n\n\n\n\n\n\nThe life-sized Impractical Jokers cutouts I made for my sophomore year dorm room.\n\n\n\n\n\n\n\nMy friend Ashley and I watching Joshua Bassett perform at the Fillmore Minneapolis."
   }
 ]

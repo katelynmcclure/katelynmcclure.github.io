@@ -1,0 +1,26 @@
+---
+title: "Bayesian Technical Report 1"
+description: "Sherlock Holmes: The Cauliflower Conundrum"
+image: cauliflower.png
+date: 03-10-2026
+about:
+  template: solana
+  image: cauliflower.png
+categories: 
+  - Course Project
+format:
+  html:
+    css: styles.css
+---
+
+\
+
+A report completed as a technical report in in [STAT 454 - Bayesian Statistics](https://catalog.macalester.edu/preview_course_nopop.php?catoid=28&coid=145414) in the spring of 2026. This project uses a Bayesian model (Beta–Geometric framework) to estimate the probability of growing a gold-star cauliflower in Stardew Valley, combining prior beliefs from online sources with empirical data from Twitch streams.
+
+\
+
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"} and [Max Clifford](https://www.linkedin.com/in/maxwellclifford1/){target="_blank"} for Professor Taylor Okonek.
+
+\
+
+Check out the [report](TR1.pdf){target="_blank"}!

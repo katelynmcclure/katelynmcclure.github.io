@@ -1,0 +1,26 @@
+---
+title: "Bayesian Technical Report 2"
+description: "Power Plays and Winning in Mixed Doubles Curling: A Bayesian Analysis"
+image: curling.jpeg
+date: 04-13-2026
+about:
+  template: solana
+  image: curling.jpeg
+categories: 
+  - Course Project
+format:
+  html:
+    css: styles.css
+---
+
+\
+
+A report completed as a technical report in in [STAT 454 - Bayesian Statistics](https://catalog.macalester.edu/preview_course_nopop.php?catoid=28&coid=145414) in the spring of 2026. This project uses a Bayesian hierarchical logistic regression model to analyze whether using a Power Play in mixed doubles curling affects the U.S. team’s probability of winning a match.
+
+\
+
+This report was created by [Katelyn McClure](https://katelynmcclure.github.io){target="_blank"} and [Isa Chen](https://www.linkedin.com/in/jinglei-chen-267364301/){target="_blank"} for Professor Taylor Okonek.
+
+\
+
+Check out the [report](TR2.pdf){target="_blank"}!
